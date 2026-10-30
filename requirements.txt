@@ -1,3 +1,6 @@
 numpy==2.4.6
 opencv-python==5.0.0.93
 scipy==1.17.1
+mahotas==1.4.19
+ipykernel==7.4.0
+ipython==9.18.0
