@@ -1,6 +1,0 @@
-.venv/
-__pycache__/
-
-*.pdf
-BAO_CAO_2_1.md
-test_gradient_domain.py
